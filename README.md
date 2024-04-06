@@ -3,6 +3,8 @@
 
 In today's agriculture, the stakes are high as the sector grapples with numerous challenges, including the devastating impact of plant diseases on crop yield and quality. The Automated Plant Disease Detection Project steps in as a transformative solution, employing Convolutional Neural Networks (CNN) for the accurate and rapid diagnosis of plant diseases through image analysis. This project not only aims at revolutionizing crop disease management but also stands as a pillar for sustainable farming by facilitating early disease detection and precise treatment, ultimately bolstering global food security.
 
+![](https://www.frontiersin.org/files/Articles/1212747/fpls-14-1212747-HTML-r1/image_m/fpls-14-1212747-g002.jpg)
+
 ## Introduction
 
 The scourge of plant diseases poses a formidable threat to agriculture, imperiling food supplies and farmers' livelihoods globally. This project harnesses the prowess of advanced deep learning to forge a state-of-the-art model capable of discerning various plant diseases from images, thereby offering an expedited and reliable diagnostic tool to better manage plant health.
@@ -21,9 +23,12 @@ The scourge of plant diseases poses a formidable threat to agriculture, imperili
 
 - **Deployment and Predictive Analysis**: The project culminates in the deployment of a predictive system, enabling the application of our trained model to diagnose plant diseases from new images, thus translating our efforts into actionable insights for end-users.
 
+  ![](https://d14b9ctw0m6fid.cloudfront.net/ugblog/wp-content/uploads/2020/12/1-4.png)
+
 ## Real-World Impact: Future Applications
 
 The project envisions a significant impact on agriculture through its potential applications, aiming to:
+
 
 - **Mobile Integration for On-Site Diagnosis**: Integrate the model into mobile applications for farmers and agronomists, offering a potent tool for immediate disease diagnosis directly in the field, empowering users with instant data and actions to safeguard their crops.
 
@@ -43,4 +48,6 @@ Looking ahead, we are committed to expanding the project's impact through datase
 
 The Automated Plant Disease Detection Project embodies a significant stride towards harnessing the potential of artificial intelligence in agriculture. By accurately identifying plant diseases through advanced image analysis, this project not only sets a new benchmark for crop disease management but also underscores the pivotal role of technology in enhancing food security and sustainability. As we look to the future, the envisioned real-world applications of this model promise to revolutionize agricultural practices, offering hope for a more resilient and productive global food system.
 
+Extranal Resource 
+https://d-nb.info/1247927369/34
 
